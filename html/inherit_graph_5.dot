@@ -1,0 +1,19 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node25 [label="Component",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node25 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="RezerwacjaHoteli.HotelDatabase\lDataSet1TableAdapters.PokojeTable\lAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set1_table_adapters_1_1_pokoje_table_adapter.html",tooltip="Represents the connection and commands used to retrieve and save data. /summary> "];
+  Node25 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="RezerwacjaHoteli.HotelDatabase\lDataSet1TableAdapters.Rezerwacja\lTableAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set1_table_adapters_1_1_rezerwacja_table_adapter.html",tooltip="Represents the connection and commands used to retrieve and save data. /summary> "];
+  Node25 -> Node28 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="RezerwacjaHoteli.HotelDatabase\lDataSet1TableAdapters.TableAdapter\lManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set1_table_adapters_1_1_table_adapter_manager.html",tooltip="TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update ..."];
+  Node25 -> Node29 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node29 [label="RezerwacjaHoteli.HotelDatabase\lDataSetTableAdapters.PokojeTable\lAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set_table_adapters_1_1_pokoje_table_adapter.html",tooltip="Represents the connection and commands used to retrieve and save data. /summary> "];
+  Node25 -> Node30 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node30 [label="RezerwacjaHoteli.HotelDatabase\lDataSetTableAdapters.RezerwacjaTable\lAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set_table_adapters_1_1_rezerwacja_table_adapter.html",tooltip="Represents the connection and commands used to retrieve and save data. /summary> "];
+  Node25 -> Node31 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node31 [label="RezerwacjaHoteli.HotelDatabase\lDataSetTableAdapters.TableAdapter\lManager",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set_table_adapters_1_1_table_adapter_manager.html",tooltip="TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update ..."];
+}

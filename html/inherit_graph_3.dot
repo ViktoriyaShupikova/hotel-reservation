@@ -1,0 +1,15 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node19 [label="DataRow",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node19 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="RezerwacjaHoteli.HotelDatabase\lDataSet1.PokojeRow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set1_1_1_pokoje_row.html",tooltip="Represents strongly named DataRow class. /summary> "];
+  Node19 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="RezerwacjaHoteli.HotelDatabase\lDataSet1.RezerwacjaRow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set1_1_1_rezerwacja_row.html",tooltip="Represents strongly named DataRow class. /summary> "];
+  Node19 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="RezerwacjaHoteli.HotelDatabase\lDataSet.PokojeRow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set_1_1_pokoje_row.html",tooltip="Represents strongly named DataRow class. /summary> "];
+  Node19 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="RezerwacjaHoteli.HotelDatabase\lDataSet.RezerwacjaRow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_rezerwacja_hoteli_1_1_hotel_database_data_set_1_1_rezerwacja_row.html",tooltip="Represents strongly named DataRow class. /summary> "];
+}

@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['updateall',['UpdateAll',['../class_rezerwacja_hoteli_1_1_hotel_database_data_set_table_adapters_1_1_table_adapter_manager.html#a888f0664dd2402c230df9d9e74f6faf2',1,'RezerwacjaHoteli.HotelDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll()'],['../class_rezerwacja_hoteli_1_1_hotel_database_data_set1_table_adapters_1_1_table_adapter_manager.html#a54f67b1c9cd0c35a80b0d467ca38517a',1,'RezerwacjaHoteli.HotelDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateAll()']]],
+  ['updateorderoption',['UpdateOrderOption',['../class_rezerwacja_hoteli_1_1_hotel_database_data_set_table_adapters_1_1_table_adapter_manager.html#a5c2903cf163784d8bb6e011dd04b7ff8',1,'RezerwacjaHoteli.HotelDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption()'],['../class_rezerwacja_hoteli_1_1_hotel_database_data_set1_table_adapters_1_1_table_adapter_manager.html#a3eccabb98a61e309bdd3074a0673a0c1',1,'RezerwacjaHoteli.HotelDatabaseDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption()']]]
+];

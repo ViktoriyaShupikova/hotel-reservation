@@ -1,0 +1,44 @@
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe.config
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\bin\Debug\HotelDatabase.mdf
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\bin\Debug\HotelDatabase_log.ldf
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.pdb
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csprojResolveAssemblyReference.cache
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wyszukiwarka.resources
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Properties.Resources.resources
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csproj.GenerateResource.Cache
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.exe
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.pdb
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wynik_wyszukiwania.resources
+E:\Навчання\IV semestr\RezerwacjaHoteli\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.PokojUC.resources
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe.config
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.exe
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.pdb
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\HotelDatabase.mdf
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\HotelDatabase_log.ldf
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.pdb
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csprojResolveAssemblyReference.cache
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wyszukiwarka.resources
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.PokojUC.resources
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Properties.Resources.resources
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wynik_wyszukiwania.resources
+F:\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csproj.GenerateResource.Cache
+E:\3 [07]\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe.config
+E:\3 [07]\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.exe
+E:\3 [07]\Навчання і самовдосконалення\WSIiZ\II rok\IV semestr\Проект Віталіку\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.pdb
+C:\Users\KaterynaRiaba\Desktop\proj\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe.config
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\bin\Debug\HotelDatabase.mdf
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\bin\Debug\HotelDatabase_log.ldf
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe.config
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.exe
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\bin\Debug\RezerwacjaHoteli.pdb
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csprojAssemblyReference.cache
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wyszukiwarka.resources
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.PokojUC.resources
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Properties.Resources.resources
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.Wynik_wyszukiwania.resources
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csproj.GenerateResource.cache
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.csproj.CoreCompileInputs.cache
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.exe
+C:\Users\Viktoriya.Shupikova\Desktop\Wsiz\projekt\vika_proj\proj\RezerwacjaHoteli\obj\Debug\RezerwacjaHoteli.pdb
